@@ -1,2 +1,6 @@
 # vba_to_shirley
-vba manual and sample for dear Shirley
+VBA manual and sample for dear Shirley
+
+1. tutorial material
+   https://www.lanrenexcel.com/excel-vba-tutorial/
+2. 
